@@ -33,6 +33,7 @@ header img {
 }
 
 .foot {
+  display:flex;
   background-color: black;
   border: 3px solid aquamarine;
   height: 50px;
